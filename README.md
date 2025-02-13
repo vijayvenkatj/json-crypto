@@ -16,7 +16,7 @@ An enhanced version of the [`@harshiyer/json-crypto`](https://www.npmjs.com/pack
 ## **📌 Installation**  
 
 ```sh
-go get github.com/vijayvenkatj/json-crypto
+go get github.com/vijayvenkatj/json-crypto/jsoncrypto
 ```
 
 ---
