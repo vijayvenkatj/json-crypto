@@ -31,7 +31,7 @@ package main
 import (
 	"fmt"
 	"log"
-	cryptohelper "github.com/vijayvenkatj/json-crypto"
+	cryptohelper "github.com/vijayvenkatj/json-crypto/jsoncrypto"
 )
 
 func main() {
