@@ -1,0 +1,22 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.a
+*.o
+
+# Ignore temporary & cache files
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.log
+
+# Ignore Go build cache
+/bin
+/pkg
+
+main.go
